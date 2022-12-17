@@ -5,4 +5,4 @@
 ### By Matt Graber
 
 
-https://arxiv.org/pdf/1611.05431.pdf
+Check out this link for other forked repositories used in this project: https://github.com/stars/grabermtw/lists/cis700-final-project
